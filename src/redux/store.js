@@ -1,6 +1,6 @@
 import { createStore } from 'redux';
 import { devToolsEnhancer } from '@redux-devtools/extension';
-import { statusFilters } from './constants';
+// import { statusFilters } from './constants';
 import { rootReducer } from './reducer';
 
 // Початкове значення стану Redux для кореневого редюсера,
